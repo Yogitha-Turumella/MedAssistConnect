@@ -113,13 +113,5 @@ src/
 - Multi-language support
 - Mobile app development
 
-## Support
-
-For technical support or questions:
-- **Email**: support@medassist.com
-- **Phone**: +1 (555) 123-4567
-- **Emergency**: Call 911 for medical emergencies
-
----
 
 *MedAssist - Your Healthcare Companion* 🏥
